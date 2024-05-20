@@ -1,0 +1,6 @@
+{
+    "commands.reload.success.MOD_ID": "MOD_NAME has been reloaded",
+    "item.MOD_ID.name": "Item Name",
+    "block.MOD_ID.name": "Block Name",
+    "entity.MOD_ID.name": "Block Name"
+}
