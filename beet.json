@@ -1,0 +1,11 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "desc!",
+  "author": "Legopitstop",
+  "output": "build",
+  "resource_pack": {
+    "load": ["src"]
+  },
+  "pipeline": ["build.main"]
+}

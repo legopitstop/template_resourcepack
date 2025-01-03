@@ -1,3 +1,24 @@
 {
-    "workbench.iconTheme": "mc-dp-icons"
+  "workbench.iconTheme": "mc-dp-icons",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#69c449",
+    "activityBar.background": "#69c449",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#5774c8",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#69c449",
+    "statusBar.background": "#52a535",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#69c449",
+    "statusBarItem.remoteBackground": "#52a535",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#52a535",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#52a53599",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#52a535",
+  "python.envFile": "${workspaceFolder}/.env"
 }

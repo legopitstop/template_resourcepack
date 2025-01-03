@@ -17,7 +17,7 @@ Template resource pack.
 
 ## LINKS
 
-- [Download](https://github.com/legopitstop/template_resourcepack)
+- [Download](https://github.com/legopitstop/template_resourcepack/releases)
 - [Wiki Page](https://github.com/legopitstop/template_resourcepack/wiki)
 - [License](https://license.lpsmods.dev)
 - [Bug Report](https://github.com/legopitstop/template_resourcepack/issues)
