@@ -1,6 +1,7 @@
 {
-    "commands.reload.success.MOD_ID": "MOD_NAME has been reloaded",
-    "item.MOD_ID.name": "Item Name",
-    "block.MOD_ID.name": "Block Name",
-    "entity.MOD_ID.name": "Block Name"
+  "item.mod_id.custom": "Custom Item",
+  "item.mod_id.custom.desc": "Description about this item",
+  "block.mod_id.custom": "Custom Block",
+  "entity.mod_id.custom": "Custom Entity",
+  "item.mod_id": "mod_id"
 }
